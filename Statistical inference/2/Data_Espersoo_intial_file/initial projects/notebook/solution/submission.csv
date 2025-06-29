@@ -1,0 +1,7 @@
+metric,value
+sample_mean_30,50.38133333333332
+sample_mean_50,51.3538
+sample_mean_100,50.2783
+bootstrap_CI_lower,48.03608333333334
+bootstrap_CI_upper,51.98770833333333
+population_mean,50.011355
